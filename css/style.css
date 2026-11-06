@@ -432,3 +432,7 @@ ul,ol{margin:0;padding:0;list-style:none}
 }
 
 @media (max-width:360px){.hdr .brand__name{font-size:15px}.hdr .brand__logo{width:40px}}
+
+/* кавычки в цитатах: крупнее и золотые */
+.qm{color:#E2C78F;font-size:1.6em;line-height:0;font-style:normal;font-weight:600;vertical-align:-.2em;margin:0 .04em}
+.qm:first-child{margin-left:-.05em}
